@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Brian Zelada 🚀
+# ¡Hola! 👋 Soy Brian Zelada
 
 Desarrollador web especializado en frontend. Me destaco por garantizar que mis aplicaciones se adapten y funcionen en cualquier dispositivo, brindando una experiencia de usuario coherente y fluida, combinando habilidades técnicas con una buena inteligencia emocional. Actualmente estoy en el mejor momento de mi vida y listo para enfrentar cualquier desafío.
 
