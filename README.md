@@ -1,24 +1,49 @@
-# ¡Hola! 👋 Soy Brian Zelada
+# Hola, soy Brian 👋
 
-Desarrollador web especializado en frontend. Me destaco por garantizar que mis aplicaciones se adapten y funcionen en cualquier dispositivo, brindando una experiencia de usuario coherente y fluida, combinando habilidades técnicas con una buena inteligencia emocional. Actualmente estoy en el mejor momento de mi vida y listo para enfrentar cualquier desafío.
+### Desarrollador Full Stack | React | NestJS | PostgreSQL
 
-## Tecnologías y Herramientas 🛠️
+Soy un desarrollador autodidacta apasionado por crear soluciones que resuelven problemas reales. Mi viaje en la programación comenzó hace 10 años modificando juegos, y desde entonces he evolucionado hasta convertirme en desarrollador Full Stack.
 
-- React ⚛️
-- Emotion/Styled Components
-- SASS
-- JavaScript
-- CSS
-- HTML
+## 🚀 Proyectos Destacados
+
+- **InterUp**: Plataforma profesional con diseño espacial y tecnologías modernas
+- **Sistema de Gestión de Cursos**: Plataforma completa con formularios dinámicos y sistema de referidos
+- **Sistema de Control de Acceso Gym**: Integración IoT para automatización y gestión
+
+## 💻 Stack Tecnológico
+
+**Frontend:**
+- React
+- TypeScript
+- Redux Toolkit
+- Material UI
+- Tailwind CSS
+
+**Backend:**
+- NestJS
+- PostgreSQL
+- Prisma
+
+**Herramientas:**
 - Git
+- GitHub
+- Figma
+- Postman
 
-## Contacto 📬
+## 🌟 Sobre mí
 
-Estoy siempre interesado en escuchar sobre nuevos proyectos, colaboraciones o simplemente para conectarme con otros desarrolladores. No dudes en contactarme.
+Me destaco por:
+- Transformar necesidades en soluciones efectivas
+- Adaptabilidad y resolución de problemas
+- Aprendizaje continuo y autodidacta
+- Colaboración en equipo y compartir conocimientos
 
-- **Correo electrónico:** brian.zelada99@gmail.com 📧
-- **Web:** [Portfolio](https://brianzelada.vercel.app/) 💻
-- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/brianzelada/) 🔗
-- **GitHub:** [Perfil de GitHub](https://github.com/ZBrian99) 🐙
+## 📫 Contacto
 
-¡Gracias por visitar mi GitHub! 🚀
+- Portfolio: [briazelada.interup.dev](https://briazelada.interup.dev)
+- LinkedIn: [Brian Zelada](https://linkedin.com/in/briazelada)
+- Email: bria.zelada99@gmail.com
+
+---
+
+💡 Siempre abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores.
