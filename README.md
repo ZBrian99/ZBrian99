@@ -48,7 +48,7 @@ Me gusta mantenerme actualizado con las mejores prácticas de desarrollo. Actual
 
 ## 📫 Conectemos
 
-- **Portfolio**: [brianzelada.interup.dev](https://brianzelada.interup.dev/)
+- **Portfolio**: [brianzelada.interup.dev](https://brianzelada.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/brianzelada](https://www.linkedin.com/in/brianzelada/)
 - **Email**: brian.zelada99@gmail.com
 
